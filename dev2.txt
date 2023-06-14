@@ -1,4 +1,7 @@
+
 editing in master branch
+editing in development branch for conflict
+
 "This is for testing but with commiting"
 
 editing in development branch
